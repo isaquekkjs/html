@@ -1,1 +1,54 @@
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #111;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+
+header {
+    background: black;
+    padding: 25px;
+}
+
+h1 {
+    color: #00cc66;
+}
+
+nav {
+    margin-top: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+section {
+    padding: 50px 20px;
+}
+
+section h2 {
+    color: #00cc66;
+    margin-bottom: 20px;
+}
+
+section p {
+    line-height: 1.8;
+}
+
+#inicio {
+    background: #063d25;
+    padding: 100px 20px;
+}
+
+footer {
+    background: black;
+    padding: 20px;
+}
